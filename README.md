@@ -1,3 +1,3 @@
 - Studying CS at [IUT de Dijon-Auxerre](https://iutdijon.u-bourgogne.fr/www/)
-- Skills : Python, HTML, CSS
-- Currrently learning : C++, SDL2, JavaScript
+- Skills : Python, Kivy
+- Currrently learning : C++, SDL2, JavaScript, HTML, CSS
