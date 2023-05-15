@@ -19,7 +19,3 @@ Studying **Computer Science** at [**IUT de Dijon-Auxerre**](https://iutdijon.u-b
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
-
-#   
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=louisdevie&show_icons=true&theme=dark)
