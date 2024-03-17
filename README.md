@@ -1,4 +1,7 @@
-Studying **Computer Science** at [**IUT de Dijon-Auxerre**](https://iutdijon.u-bourgogne.fr/www/)
+Currently studying **Computer Science** at the [**IUT de Dijon-Auxerre**](https://iutdijon.u-bourgogne.fr/www/), and going to join the [**ESEO**](https://eseo.fr/) engineering school next year.
+
+Loves app development (back-end more than fron-end), language theory and compilers.
+When I'm not coding, I'm working on electronics projects, playing Ultrakill, reading science fiction comics/novels or listening to/playing music.
 
 ### What I like to work with
 
