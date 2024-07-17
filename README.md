@@ -1,6 +1,6 @@
-Currently studying **Computer Science** at the [**IUT de Dijon-Auxerre**](https://iutdijon.u-bourgogne.fr/www/), and going to join the [**ESEO**](https://eseo.fr/) engineering school next year.
+After studying **Computer Science** at the [**IUT de Dijon-Auxerre**](https://iutdijon.u-bourgogne.fr/www/) for three years, I am now working as a full-stack developer at [**Kalico Informatique**](https://kalico-informatique.fr/).
 
-Loves app development (back-end more than fron-end), language theory and compilers.
+I love app development (back-end more than fron-end), language theory and compilers.
 When I'm not coding, I'm working on electronics projects, playing Ultrakill, reading science fiction comics/novels or listening to/playing music.
 
 ### What I like to work with
